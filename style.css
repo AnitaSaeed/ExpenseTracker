@@ -1,0 +1,52 @@
+body{
+    
+}
+.container{
+    margin-top: 20px;
+   
+}
+/*.lable{
+    position: absolute;
+    float: right;
+    background-color: rgb(138, 138, 230);
+}
+.row{
+    background-color: blueviolet;
+}
+.col-md-1{
+    position: relative;
+    background-color: rgb(231, 176, 176);
+}*/
+div{
+    padding: 5px;
+}
+table{
+    margin-top: 30px;
+}
+button{
+    margin: auto;
+    
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+    
+}
+h5{
+    color: #48cae4;
+   text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+.del{
+    border: 2px solid white;
+    background-color: rgb(255, 255, 255);
+    color: rgb(97, 96, 96);
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
